@@ -14,10 +14,10 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #19191a;
   min-height: 100vh;
 
-  color: white;
+  color: rgb(221, 221, 221);
 }
 
 .App-link {
